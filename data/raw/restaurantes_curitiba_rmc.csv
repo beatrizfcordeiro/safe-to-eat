@@ -1,0 +1,37 @@
+nome ,tipo ,bairro,cidade,latitude ,longitude ,seguro_celiaco ,nivel_seguranca,observacoes 
+Baby Cake,Confeitaria/Café,Água Verde ,Curitiba,-25.4480,-49.2932,Sim ,Alto,
+Santo Batel,Restaurante,Batel,Curitiba,-25.4433,-49.2924,Sim ,,
+Palumina Tortas Shopping Curitiba,Confeitaria/Café,Centro ,Curitiba,-25.4405,-49.2778,Sim ,,
+Palumina Tortas Barigui ,Confeitaria/Café,Mossunguê,Curitiba,-25.4326,-49.3172,Sim ,,
+Batatiba Água Verde ,Restaurante,Rebouças ,Curitiba,-25.4454,-49.2773,Sim ,Alto,
+Batatiba SOUQ,Restaurante,Vila Izabel ,Curitiba,-25.4548,-49.3027,Sim ,Alto ,
+Christine Valente Sem Glúten,Confeitaria/Café,São Francisco,Curitiba,-25.4165,-49.2801,Sim ,,
+Cores e Sabores ,Confeitaria/Café,Fanny ,Curitiba,-25.4766 ,-49.2661,Sim ,Alto ,vegan
+Pizzaria Rigani ,Pizzaria,Batel ,Curitiba,-25.4408,-49.2959,Sim ,Alto ,
+Sem Culpa ,Restaurante,Hugo Lange ,Curitiba,-25.4176,-49.2490,Sim ,Alto ,
+LolaLi Doces,Confeitaria/Café,Centro ,Curitiba,-25.4323,-49.2812,Sim ,Alto ,sem lactose 
+Veritá - Saudável de Verdade,Restaurante,Batel,Curitiba,-25.4374,-49.2830,Sim ,,
+Veritá - Saudável de Verdade,Confeitaria/Café,Cabral,Curitiba,-25.4080,-49.2512,Sim ,,
+Akkari ,Confeitaria/Café,Batel ,Curitiba,-25.4420,-49.2905,Sim ,,sem lactose
+Suli Confeitaria ,Confeitaria/Café,Bigorrilho ,Curitiba,-25.4336 ,-49.2991,Sim ,,
+Suli Confeitaria - Cabral ,Confeitaria/Café,Cabral ,Curitiba,-25.4074,-49.2537,Sim ,,
+Suli Confeitaria - Água Verde,Confeitaria/Café,Água Verde ,Curitiba,-25.4587,-49.2855,Sim ,,
+Sabores da Grace ,Confeitaria/Café,Batel ,Curitiba,-25.4412,-49.2895,Não,,opções sem gluten
+Senza Grano,Pizzaria,Santa Felicidade,Curitiba,-25.4057,-49.3231,Sim ,,
+Sorella Restaurante Vegetariano,Restaurante,Centro Cívico,Curitiba,-25.4102,-49.2657,Não ,,opções sem gluten
+Levain ,Confeitaria/Café,Ahú ,Curitiba,-25.3984,-49.2597,Sim ,,
+Glutose,Confeitaria/Café,Bacacheri,Curitiba,-25.4080,-49.2393,Sim ,,
+A Fada dos Bolos ,Confeitaria/Café,Bom Retiro,Curitiba,-25.4105,-49.2761,Sim ,,
+NowHeat Santa Felicidade,Restaurante,Santa Felicidade,Curitiba,-25.3889,-49.3374,Sim ,,
+NowHeat Curitiba,Restaurante,Hugo Lange ,Curitiba,-25.4119,-49.2454,Sim ,,
+NowHeat Pinhais,Restaurante,Pineville ,Pinhais,-25.4125,-49.1891,Sim ,,
+Pero Que Sí Cevicheria,Restaurante,Rebouças ,Curitiba,-25.4503,-49.2788,Sim ,,
+Senza Glutine ,Delivery/Take Away,Centro,Pinhais,-25.4326 ,-49.1900,Sim ,,
+Zero Glutine - Delivery de Pizzas Sem Glúten ,Pizzaria,Afonso Pena,São José dos Pinhais,-25.5046,-49.1913,Sim ,,
+Da Terra Panificação Glúten e Lac Free,Confeitaria/Café,Jardim Monterrey,Almirante Tamandaré,-25.3478,-49.2867,Sim ,,
+NN Confeitaria Saudável e Inclusiva,Confeitaria/Café,Santa Cândida,Curitiba,-25.3659,-49.2254,Não,,opções sem gluten
+EVS Nutri Saúde Bacacheri,Restaurante,Bacacheri,Curitiba,-25.4018,-49.2450,Sim,,
+Casa di Pão,Confeitaria/Café,Cristo Rei ,Curitiba,-25.4299,-49.2410,Sim,,
+Feel Free Bolos e Delícias,Confeitaria/Café,Rebouças,Curitiba,-25.4423,-49.2714,Sim,,
+Beatrice Cozinha Sem Glúten,Delivery/Take Away,Vila Izabel ,Curitiba,-25.4575,-49.2928,Sim,,
+Saudáveis com sabor por Regina Bachiega,Confeitaria/Café,Bigorrilho ,Curitiba,-25.4292,-49.2950,Sim,,
