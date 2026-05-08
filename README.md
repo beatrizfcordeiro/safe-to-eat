@@ -35,7 +35,7 @@ Além da parte técnica, o projeto também busca gerar **_impacto social positiv
 
 ## 🗺️ Funcionalidades atuais
 
-- Mapa interaativo 
+- Mapa interativo 
 - Marcadores coloridos
 - Informações dos restaurantes 
 - Dados reais da região de Curitiba
